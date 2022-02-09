@@ -13,4 +13,5 @@ categories = ["no-std", "os"]
 
 
 [dependencies]
-x86_64 = "0.14.4"
+# x86_64 = "0.14.4"
+x86_64 = "0.14.8"
